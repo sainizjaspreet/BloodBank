@@ -1,0 +1,30 @@
+.brand-logo {
+  height: 90%;
+}
+
+.mynav {
+  background-color: #36454f;
+}
+footer.page-footer {
+  background-color: #36454f;
+}
+.row {
+  display: flex;
+  justify-content: center;
+}
+.home-img {
+  width: 80%;
+  height: auto;
+}
+
+.row {
+  margin-bottom: 6px;
+}
+
+h3 {
+  color: #9f190c;
+}
+
+div.card div.card-content {
+  padding-bottom: 0.1em;
+}

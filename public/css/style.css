@@ -1,0 +1,45 @@
+.brand-logo {
+  height: 90%;
+}
+
+.mynav {
+  background-color: #36454f;
+}
+footer {
+  margin-top: 30px;
+}
+
+body footer.page-footer {
+  background-color: #36454f;
+}
+body {
+  background-color: #999da0;
+}
+
+.row {
+  margin-bottom: 2px;
+}
+
+h3 {
+  color: #9f190c;
+}
+
+div.card div.card-content {
+  padding-bottom: 0.1em;
+  padding-top: 0.6rem;
+  background-color: #36454f;
+}
+
+select {
+  display: inherit;
+}
+
+#final {
+  margin-top: 10px;
+}
+
+div div input#phone,
+div div input#first_name,
+div div input#address {
+  margin-bottom: 0;
+}
